@@ -12,7 +12,8 @@ Evolution works best. Even though at first, it works worse, after mutate, combin
 
 As you can see, after 15 episode, the annual return can reach 28%
 
-Actor-Critic, A3C, PPO are similar algorithm. Even though they may work better at first. Due to lo low learning rate. It is hard to step large. Therefore, the rturn of portfolio cannot converge. It bounce back and forward.(following are the portfolio value furing one episode)
+Actor-Critic, A3C, PPO are similar algorithm. Even though they may work better at first. Due to lo low learning rate. It is hard to step large. Therefore, the rturn of portfolio cannot converge. It bounce back and forward.(following are the portfolio value during one episode)
+
 ![](png/output_18_1.png)
 
 ![](png/output_22_1.png)
